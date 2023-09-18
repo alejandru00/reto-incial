@@ -1,0 +1,15 @@
+Número de soluciones para 1-reinas: 1
+Número de soluciones para 2-reinas: 0
+Número de soluciones para 3-reinas: 0
+Número de soluciones para 4-reinas: 2
+Número de soluciones para 5-reinas: 10
+Número de soluciones para 6-reinas: 4
+Número de soluciones para 7-reinas: 40
+Número de soluciones para 8-reinas: 92
+Número de soluciones para 9-reinas: 352
+Número de soluciones para 10-reinas: 724
+Número de soluciones para 11-reinas: 2680
+Número de soluciones para 12-reinas: 14200
+Número de soluciones para 13-reinas: 73712
+Número de soluciones para 14-reinas: 365596
+Número de soluciones para 15-reinas: 2279184

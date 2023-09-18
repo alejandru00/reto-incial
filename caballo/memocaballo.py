@@ -29,6 +29,6 @@ def contar_movimientos(n):
     total = sum(dp[n])
     return total
 
-n = 10000  # Especifica el número de movimientos
+n = 33     # Especifica el número de movimientos
 total_movements = contar_movimientos(n)
 print(f"Total de movimientos para {n} pasos: {total_movements}")
